@@ -51,7 +51,7 @@ using extensive cross-validation and performance analysis.
 ## 🏗️ Methodology
 
 <p align="center">
-  <img src="YOUR_SYSTEM_ARCHITECTURE_IMAGE" width="700">
+  <img width="461" height="548" alt="image" src="https://github.com/user-attachments/assets/006242c2-9be9-47b5-b3b9-da73540fb4ed" />
 </p>
 
 ### Workflow
