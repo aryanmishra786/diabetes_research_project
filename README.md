@@ -177,3 +177,6 @@ Bonaventure Chidube Molokwu
 ## ⭐ Award Recognition
 
 This work received the **Best Poster Honorable Mention Award** at WEBIST 2025 for its contribution to machine learning applications in healthcare.
+<p align="center">
+  <img width="557" height="777" alt="image" src="https://github.com/user-attachments/assets/c3c32f57-6b30-4127-be5c-afb092291b50" />
+</p>
