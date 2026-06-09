@@ -6,18 +6,6 @@ A machine learning research project that investigates the impact of oversampling
 
 ---
 
-## 🏆 Recognition
-
-🥇 **Best Poster Honorable Mention**
-
-**21st International Conference on Web Information Systems and Technologies (WEBIST 2025)**
-
-📍 Marbella, Spain
-
-The project was recognized for its contribution to machine learning applications in healthcare and predictive analytics.
-
----
-
 ## 📖 Research Overview
 
 Diabetes prediction datasets often suffer from class imbalance, where diabetic cases are significantly underrepresented. This research explores whether oversampling techniques can improve model performance while maintaining strong generalization on unseen patient data.
